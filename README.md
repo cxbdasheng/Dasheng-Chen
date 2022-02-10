@@ -2,13 +2,13 @@
 
 ### Hi there 👋
 - 🤣 I am a PHP development 
-- 👀 I'm a graduate student
+- 👀 I am a postgraduate student
 - 🥺 Busy life in ChangSha
 - 🌱 I’m currently learning English.
 - 🌈 Write something when you think of it [Blog](http://www.c69p.com/)
 
 - 🤣 一名4年开发经验的phper
-- 👀 目前正在读研究生
+- 👀 目前正在读硕士研究生
 - 🥺 在忙碌的长沙生活
 - 🌱 努力学习英语中
 - 🌈 平时喜欢写写[博客](http://www.c69p.com/)
