@@ -5,7 +5,7 @@
 - 👀 I am a postgraduate student
 - 🥺 Busy life in ChangSha
 - 🌱 I’m currently learning English.
-- 🌈 Write something when you think of it [Blog](http://www.c69p.com/)
+- 🌈 Write something when you think of it [Blog](http://www.it927.com/)
 
 - 🤣 一名4年开发经验的phper
 - 👀 目前正在读硕士研究生
